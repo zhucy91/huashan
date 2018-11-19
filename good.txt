@@ -12,3 +12,5 @@ public static  void  main(String[] args ) {
 
 
 中文会不会乱码
+
+vim 编辑器写java
